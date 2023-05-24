@@ -1,0 +1,12 @@
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\bin\Debug\Estados de mexico.exe.config
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\bin\Debug\Estados de mexico.exe
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\bin\Debug\Estados de mexico.pdb
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\bin\Debug\Estados de mexico.xml
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados de mexico.vbproj.AssemblyReference.cache
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados_de_mexico.Form1.resources
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados_de_mexico.Resources.resources
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados de mexico.vbproj.GenerateResource.cache
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados de mexico.vbproj.CoreCompileInputs.cache
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados de mexico.exe
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados de mexico.xml
+C:\Users\felipe.acostac\source\repos\Estados de mexico\Estados de mexico\obj\Debug\Estados de mexico.pdb
